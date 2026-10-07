@@ -1,7 +1,3 @@
-<!-- ══════════════════════════ HEADER ══════════════════════════ -->
-<!-- ⚠️ Update GitHub username in links below if different from "HamidHassasii" -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=230&section=header&text=Hamid%20Hassasi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20BI%20%26%20Data%20Warehouse%20Specialist%20%7C%20PhD%20Applied%20Mathematics&descAlignY=53&descSize=18" />
-
 <!-- ⌨️ Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Turning+raw+data+into+decisions...;%F0%9F%97%84%EF%B8%8F+Data+Warehouse+Specialist;%F0%9F%93%8A+BI+%26+Dashboard+Expert;%F0%9F%A7%AE+Applied+Mathematics+PhD;%E2%9A%A1+Kimball+%C2%B7+SSIS+%C2%B7+Power+BI;%F0%9F%8E%93+University+Lecturer+%2813%2B+Years%29" alt="Typing SVG" />
