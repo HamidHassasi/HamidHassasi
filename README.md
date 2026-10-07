@@ -1,16 +1,17 @@
 <!-- ══════════════════════════ HEADER ══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:3b82f6,100:8b5cf6&height=230&section=header&text=AmirHossein%20Shamsi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%7C%20full-stack%20developer%20%7C%20Geospatial%20Systems&descAlignY=53&descSize=18" />
+<!-- ⚠️ Update GitHub username in links below if different from "HamidHassasii" -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=230&section=header&text=Hamid%20Hassasi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Senior%20BI%20%26%20Data%20Warehouse%20Specialist%20%7C%20PhD%20Applied%20Mathematics&descAlignY=53&descSize=18" />
 
 <!-- ⌨️ Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Building+intelligent+systems...;%F0%9F%A4%96+AI+Engineer;%E2%9A%99%EF%B8%8F+Backend+Engineer;%F0%9F%97%BA%EF%B8%8F+Geospatial+Systems;%F0%9F%A7%A0+LLM+Agents+%26+MCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Turning+raw+data+into+decisions...;%F0%9F%97%84%EF%B8%8F+Data+Warehouse+Specialist;%F0%9F%93%8A+BI+%26+Dashboard+Expert;%F0%9F%A7%AE+Applied+Mathematics+PhD;%E2%9A%A1+Kimball+%C2%B7+SSIS+%C2%B7+Power+BI;%F0%9F%8E%93+University+Lecturer+%2813%2B+Years%29" alt="Typing SVG" />
 </p>
 
 <!-- 🔢 Live profile badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amir-Hossein-shamsi&label=PROFILE+VIEWS&color=3b82f6&style=for-the-badge&abbreviated=true" alt="Profile views" />
-  <a href="https://github.com/Amir-Hossein-shamsi?tab=followers">
-    <img src="https://img.shields.io/github/followers/Amir-Hossein-shamsi?label=FOLLOWERS&style=for-the-badge&color=8b5cf6&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=HamidHassasii&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge&abbreviated=true" alt="Profile views" />
+  <a href="https://github.com/HamidHassasii?tab=followers">
+    <img src="https://img.shields.io/github/followers/HamidHassasii?label=FOLLOWERS&style=for-the-badge&color=a855f7&logo=github" alt="Followers" />
   </a>
 </p>
 
@@ -21,25 +22,42 @@
 
 ```bash
 $ whoami
-Hamid-Hassasi
+hamid-hassasi
 
 $ cat ~/profile.json
 {
-  "name":     "Hamid Hassasi",
-  "role":     ["AI Engineer", "Backend Engineer"],
-  "focus":    ["LLM Agents", "MCP", "Geospatial Intelligence"],
-  "building": "AI-powered backends · routing engines · search systems",
-  "tools":    ["Python", "FastAPI", ".NET", "Go", "PyTorch"],
-  "motto":    "AI + Backend + Data + Infrastructure = One Reliable System"
+  "name":       "Hamid Hassasi",
+  "role":       ["Senior BI & Data Warehouse Specialist", "University Lecturer"],
+  "education":  "PhD in Applied Mathematics — IAUCTB",
+  "experience": "14+ Years",
+  "focus":      ["Data Warehousing", "Dimensional Modeling", "BI & Analytics"],
+  "building":   "Kimball data marts · ETL pipelines · Executive dashboards",
+  "tools":      ["SQL Server", "T-SQL", "SSIS", "SSAS", "Power BI", "DAX", "Python"],
+  "motto":      "Model the business · Trust the data · Deliver the decision"
 }
 
 $ sudo make impact
-▸ training models............ done ✓
-▸ deploying systems.......... done ✓
-▸ solving real problems...... always ✓
+▸ modeling warehouses........ done ✓
+▸ tuning queries............. 15min → 4min ✓
+▸ delivering dashboards...... always ✓
 ```
 
-I build **AI-powered applications, backend services, and intelligent geospatial systems** — with a strong focus on practical engineering, system architecture, and real-world problem solving.
+I design and build **enterprise data warehouses, ETL pipelines, and BI dashboards** — backed by a strong foundation in **applied mathematics, statistics, and optimization**. From requirements gathering and Kimball-based data modeling to ETL development, data quality, and production support, I turn complex data into reliable KPIs and decision-support solutions.
+
+---
+
+<!-- ══════════════════════════ SNAPSHOT ══════════════════════════ -->
+## 📊 Career Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓_Experience-14%2B_Years-3B82F6?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/📦_SSIS_Packages-100%2B-8B5CF6?style=for-the-badge" alt="SSIS Packages" />
+  <img src="https://img.shields.io/badge/📑_BI_Reports-50%2B-06B6D4?style=for-the-badge" alt="Reports" />
+  <br/>
+  <img src="https://img.shields.io/badge/🗂️_Largest_Table-1B%2B_Records-EF4444?style=for-the-badge" alt="Largest Table" />
+  <img src="https://img.shields.io/badge/⚡_Query_Tuning-15min_%E2%86%92_4min-F59E0B?style=for-the-badge" alt="Query Tuning" />
+  <img src="https://img.shields.io/badge/👥_ERP_Users_Served-10%2C000%2B-22C55E?style=for-the-badge" alt="ERP Users" />
+</p>
 
 ---
 
@@ -47,7 +65,15 @@ I build **AI-powered applications, backend services, and intelligent geospatial 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,fastapi,dotnet,go,docker,redis,mongodb,elasticsearch,linux,git,graphql" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSAS-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSRS-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <details>
@@ -55,54 +81,46 @@ I build **AI-powered applications, backend services, and intelligent geospatial 
 
 <br>
 
-### Languages
+### Query & Languages
 
 <p>
+  <img src="https://img.shields.io/badge/SQL%20Server%20(T--SQL)-CC2927?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MDX-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PL--SQL-306CE8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
-### AI & Machine Learning
+### Microsoft BI Stack
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSAS-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SSRS-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Report%20Builder-CC2927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kimball%20Methodology-111827?style=for-the-badge" />
 </p>
 
-### Backend & APIs
+### Data & Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
-
-### Data & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPSS-0561B5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/QlikView-009845?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pyodbc-3776AB?style=for-the-badge" />
 </p>
 
-### Geospatial & Routing
+### Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/OSRM-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OSMnx-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NetworkX-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
 <br>
@@ -111,16 +129,16 @@ I build **AI-powered applications, backend services, and intelligent geospatial 
 
 | Area | Technologies |
 |------|--------------|
-| 🤖 **AI / ML** | PyTorch · Scikit-learn · NLP · Deep Learning · RAG |
-| 🧠 **LLM & Agents** | LangChain · LangGraph · MCP · AI Agents · OpenAI |
-| 🐍 **Backend** | Python · FastAPI · AsyncIO · REST APIs · WebSockets |
-| 💻 **Enterprise Backend** | .NET · Django · FastAPI |
-| 🗺️ **Geospatial** | OpenStreetMap · OSRM · GeoPandas · OSMnx · NetworkX · MapLibre |
-| 🚚 **Routing & Optimization** | TSP · Route Optimization · Traffic Modeling |
-| 🔎 **Search & Data** | Elasticsearch · MongoDB · Redis · Vector Search |
-| 🐹 **Other Languages** | Go · C# |
-| 🐳 **Infrastructure** | Docker · Linux · Git · CI/CD |
-| 📱 **Development** | REST · GraphQL · WebSockets · Microservices |
+| 🗄️ **Data Warehousing** | Kimball Methodology · Dimensional Modeling · Fact/Dimension · Data Marts · Star Schema |
+| ⚙️ **ETL & Integration** | SSIS (100+ packages) · ETL Pipelines · Data Cleansing · pyodbc · Scheduled Jobs |
+| 📊 **BI & Reporting** | Power BI · SSRS · Report Builder · DAX · KPI Design · Executive Dashboards |
+| 🧠 **Analytics Engine** | SSAS · MDX · Cubes · OLAP |
+| 🗃️ **Databases & Query** | SQL Server · T-SQL · Execution Plans · Indexing · Query Tuning · MongoDB · PL-SQL |
+| 🐍 **Programming** | Python · pyodbc · C# (basic) |
+| 📈 **Math & Statistics** | Mathematical Optimization · Statistical Modeling · SPSS · Advanced Excel |
+| 🧮 **Decision Science** | MCDM · Fuzzy Logic · Decision Analysis · Operations Research |
+| 💼 **Business Analysis** | BABOK · Requirements Engineering · Process Modeling · ERP · Insurance Domain |
+| 🛠️ **Tools** | Git · Visual Studio · REST API · QlikView (basic) · Figma (basic) |
 
 </details>
 
@@ -132,25 +150,29 @@ I build **AI-powered applications, backend services, and intelligent geospatial 
 ```mermaid
 mindmap
   root((My Universe 🚀))
-    Artificial Intelligence 🤖
-      Machine Learning
-      Deep Learning
-      NLP
-      RAG
-      LLM Agents 🧠
-        LangChain
-        LangGraph
-        MCP
-    Backend Engineering ⚙️
-      FastAPI
-      .NET
-      Go
-    Geospatial Systems 🗺️
-      Geocoding
-      Routing
-      TSP
-      Traffic Modeling
-      Spatial Analysis
+    Data Warehousing 🗄️
+      Kimball Methodology
+      Dimensional Modeling
+      Data Marts
+      Star Schema
+    Business Intelligence 📊
+      Power BI
+      SSRS
+      KPI Design
+      Executive Dashboards
+    ETL & Pipelines ⚙️
+      SSIS
+      Data Cleansing
+      Data Quality
+    Mathematics & Analytics 🧮
+      Mathematical Optimization
+      Statistical Modeling
+      Fuzzy Logic
+      MCDM
+    Academia 🎓
+      Teaching
+      Research
+      Peer Review
 ```
 
 ---
@@ -159,16 +181,15 @@ mindmap
 ## 🔥 What I Love Building
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_Powered_Backends-3B82F6?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered Backends" />
-  <img src="https://img.shields.io/badge/LLM_Agents_%26_Tools-8B5CF6?style=for-the-badge&logo=langchain&logoColor=white" alt="LLM Agents and Tools" />
-  <img src="https://img.shields.io/badge/MCP_Applications-111827?style=for-the-badge&logo=matrix&logoColor=white" alt="MCP Applications" />
-  <img src="https://img.shields.io/badge/RAG_%26_Search_Systems-06B6D4?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="RAG and Search" />
+  <img src="https://img.shields.io/badge/Enterprise_Data_Warehouses-3B82F6?style=for-the-badge" alt="Data Warehouses" />
+  <img src="https://img.shields.io/badge/Executive_Dashboards_%26_KPIs-8B5CF6?style=for-the-badge&logo=powerbi&logoColor=white" alt="Dashboards and KPIs" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-06B6D4?style=for-the-badge" alt="ETL Pipelines" />
+  <img src="https://img.shields.io/badge/Performance_Tuning-F59E0B?style=for-the-badge" alt="Performance Tuning" />
   <br/>
-  <img src="https://img.shields.io/badge/Geospatial_Systems-22C55E?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="Geospatial Systems" />
-  <img src="https://img.shields.io/badge/Routing_%26_Optimization-F59E0B?style=for-the-badge&logo=mapbox&logoColor=white" alt="Routing and Optimization" />
-  <img src="https://img.shields.io/badge/Realtime_Systems-EF4444?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Realtime Systems" />
-  <img src="https://img.shields.io/badge/High_Performance_APIs-10B981?style=for-the-badge&logo=fastapi&logoColor=white" alt="High Performance APIs" />
-  <img src="https://img.shields.io/badge/Data_Driven_Engineering-64748B?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Driven Engineering" />
+  <img src="https://img.shields.io/badge/Optimization_%26_Statistical_Models-EF4444?style=for-the-badge" alt="Optimization Models" />
+  <img src="https://img.shields.io/badge/Decision_Support_Systems-22C55E?style=for-the-badge" alt="Decision Support" />
+  <img src="https://img.shields.io/badge/Fuzzy_%26_MCDM_Methods-111827?style=for-the-badge" alt="Fuzzy and MCDM" />
+  <img src="https://img.shields.io/badge/BI_Team_Mentoring-64748B?style=for-the-badge" alt="Mentoring" />
 </p>
 
 ---
@@ -176,20 +197,39 @@ mindmap
 <!-- ══════════════════════════ MINDSET ══════════════════════════ -->
 ## 📈 Engineering Mindset
 
-I enjoy working across the full path from **problem → architecture → implementation → deployment** — not just individual models or frameworks, but systems where everything works as one reliable machine:
+I enjoy working across the full path from **business problem → data model → ETL → dashboard → decision** — not just individual reports or tables, but complete systems where everything works as one reliable data platform:
 
 ```mermaid
 flowchart LR
-    P["🎯 Problem"] --> A["🏗️ Architecture"]
-    A --> I["⚙️ Implementation"]
-    I --> D["🚀 Deployment"]
+    P["🎯 Business Problem"] --> M["🗄️ Data Modeling"]
+    M --> E["⚙️ ETL & Pipelines"]
+    E --> D["📊 Dashboards & KPIs"]
+    D --> B["💡 Better Decisions"]
 
-    AI["🤖 AI"] --> S["⚡ One Reliable System"]
-    BE["⚙️ Backend"] --> S
-    DA["📊 Data"] --> S
-    IN["🏗️ Infrastructure"] --> S
-    ALG["🧮 Algorithms"] --> S
+    DW["🗄️ Warehousing"] --> S["✅ One Reliable Data Platform"]
+    BI["📊 BI & Reporting"] --> S
+    MA["🧮 Math & Stats"] --> S
+    BA["💼 Business Analysis"] --> S
 ```
+
+---
+
+<!-- ══════════════════════════ ACHIEVEMENTS ══════════════════════════ -->
+## 🏆 Highlights & Achievements
+
+- 🥇 **Distinguished Student Awardee** — 4th Exceptional Talents Festival, University of Qom (2008)
+- 📝 **Peer Reviewer** — Interdisciplinary Journal of Management Studies (IJMS)
+- 🎓 **13+ Years of University Teaching** — Statistics, Linear Algebra, Fuzzy Logic, Decision Analysis & AI at Islamic Azad University (Central Tehran Branch)
+
+<details>
+<summary>📚 <b>Publications — click to expand</b></summary>
+
+<br>
+
+- **Adjacency-based local top-down search method for finding maximal efficient faces in multiple objective linear programming** *(2018)*
+- **Solving a tri-criteria best path problem using the fuzzy decision making** *(2016)*
+
+</details>
 
 ---
 
@@ -198,14 +238,13 @@ flowchart LR
 
 | Focus Area | Progress |
 |------------|----------|
-| 🤖 Advanced LLM Agents | `█████████░` |
-| 🔗 MCP-based Applications | `████████░░` |
-| 🕸️ LangGraph Multi-Agent Systems | `████████░░` |
-| 🗺️ Intelligent Routing & Optimization | `███████░░░` |
-| 🧠 Graph Neural Networks | `█████░░░░░` |
-| 🏢 .NET / Enterprise Architecture | `█████░░░░░` |
-| ⚡ Distributed Backend Systems | `███████░░░` |
-| ☸️ Kubernetes & Cloud-Native | `███░░░░░░░` |
+| 🧮 Advanced DAX & Power BI Modeling | `█████████░` |
+| ⚡ Large-Scale Warehouse Performance Tuning | `████████░░` |
+| 🐍 Python for Data Engineering | `███████░░░` |
+| 🤖 AI & Data Mining in BI | `██████░░░░` |
+| 📊 Advanced Statistics & Optimization | `███████░░░` |
+| ☁️ Cloud Data Platforms | `█████░░░░░` |
+| 🌊 Modern Lakehouse Architectures | `████░░░░░░` |
 
 <sub>*bars measured in pure enthusiasm, not science 📏😄*</sub>
 
@@ -224,22 +263,23 @@ flowchart LR
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:shamsiamirhossein1@gmail.com">
+  <a href="mailto:HamidHassasii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Amir-Hossein-shamsi">
+  <a href="https://github.com/HamidHassasii">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/amirhossein-s-b2b97b38b/">
+  <!-- ⚠️ Replace with your actual LinkedIn profile URL -->
+  <a href="https://www.linkedin.com/in/hamidhassasi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <i>“Build intelligent systems.<br>
-  Solve real problems.<br>
-  Keep the engineering solid.”</i>
+  <i>“Model the business.<br>
+  Trust the data.<br>
+  Keep the warehouse solid.”</i>
 </p>
 
 <!-- ══════════════════════════ FOOTER ══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:06b6d4&height=140&section=footer&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0ea5e9&height=140&section=footer&fontSize=24&fontColor=ffffff&animation=fadeIn" />
