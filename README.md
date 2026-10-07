@@ -6,7 +6,7 @@
 <!-- 🔢 Live profile badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HamidHassasii&label=PROFILE+VIEWS&color=6366f1&style=for-the-badge&abbreviated=true" alt="Profile views" />
-  <a href="https://github.com/HamidHassasii?tab=followers">
+  <a href="https://github.com/HamidHassasi?tab=followers">
     <img src="https://img.shields.io/github/followers/HamidHassasii?label=FOLLOWERS&style=for-the-badge&color=a855f7&logo=github" alt="Followers" />
   </a>
 </p>
@@ -262,7 +262,7 @@ flowchart LR
   <a href="mailto:HamidHassasii@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/HamidHassasii">
+  <a href="https://github.com/HamidHassasi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <!-- ⚠️ Replace with your actual LinkedIn profile URL -->
